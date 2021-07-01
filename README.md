@@ -1,9 +1,9 @@
-<h1 align="center">Welcome to my World, I'm LAASYA 👋</h1>
-<h3 align="center"> An Exuberant tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's.</h3>
+<h2 align="center">Hello World, I'm LAASYA 👋</h2>
+<h4 align="center"> An Exuberant tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's.</h4>
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 You can also check out my portfolio at **YET TO COME**
+- 👨‍💻 You can also check out my portfolio at **www.netlify.com**
 
 - 📫 How to reach me **laasyalata20@gmail.com**
 <img align= "right" src="https://cdn.dribbble.com/users/1355613/screenshots/8175878/media/096711d0805f90ae2e81be458ffe4a31.jpg?compress=1&resize=1200x900" width="600" height="400">
