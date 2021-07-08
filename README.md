@@ -1,5 +1,5 @@
 <h2 align="center">Hello World, I'm LAASYA 👋</h2>
-<h4 align="center"> An Exuberant tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's.</h4>
+<h4 align="center"> An Ebullient tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's.</h4>
 
 - 🌱 I’m currently learning **Python**
 
