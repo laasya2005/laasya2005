@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm LAASYA <img align= "" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30" height="30"></h2>
 
-<h4 align="center"> An Ebullient tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's.</h4>
+<h3 align="center"> An Ebullient tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's.</h3>
 <img align= "right" src="https://cdn.dribbble.com/users/3029797/screenshots/13909768/media/2bfb0f1fa96cbcdd0293721013253355.gif" width="400" height="300">
 
 - 🌱 Areas of Intrest: Machine Learning, Web Development.
