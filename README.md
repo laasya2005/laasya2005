@@ -3,7 +3,7 @@
 <h3 align="center"> An ebullient tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's.</h3>
 <img align= "right" src="https://cdn.dribbble.com/users/3029797/screenshots/13909768/media/2bfb0f1fa96cbcdd0293721013253355.gif" width="400" height="300">
 
-- 🌱 Areas of Intrest: Data Science.
+- 🌱 Areas of Intrest: Data Science, Machine Learning, Web Development.
 
 - 👨‍💻 You can also check out my portfolio at **www.netlify.com**
 
