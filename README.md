@@ -1,13 +1,14 @@
 <h2 align="center">Hello, I'm LAASYA <img align= "" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30" height="30"></h2>
 
-<h5 align="center"> I am driven with a passion for learning and always motivated by new technologies and computer languages.
-
-I am a result-driven individual and eager to apply my creative problem-solving skills and strong technical knowledge to add value and innovation to dynamic growth-focused organizations. I believe to have a strong work ethic, the ability to adapt and flourish in diverse environments, and building cordial and constructive work relationships.</h5>
+<h5 align="center"> 
+I’m excited to apply my technical skills to create solutions and build meaningful connections! </h5>
 <img align= "right" src="https://cdn.dribbble.com/users/3029797/screenshots/13909768/media/2bfb0f1fa96cbcdd0293721013253355.gif" width="400" height="300">
 
-- 🌱 Skills: C++, C, Python, HTML, MySQL
-- 🌱 Familiar: Java, JavaScript, CSS, ML
-- 🌱Cloud Platform: AWS
+- 🌱 Programming Languages: Python, JavaScript, C++, Java.
+- 🌱 Front End Development: ReactJs, Bootstrap, HTML 5, CSS 3, JSON, XML.
+- 🌱 Back End Development: Flask, Django, REST API, SQL, PostgreSQL, MongoDB.
+- 🌱 Libraries/Frameworks: Pandas, NumPy, Scikit learn, SciPy, TensorFlow, PyTorch, Keras, PyBullet, OpenCV, AWS, NodeJS, PyUnit, Selenium, PyTest, CI/CD, Scrum, Agile, Jira.
+- 🌱 Version Control: Git, GitHub.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
