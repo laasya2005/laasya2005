@@ -22,10 +22,24 @@
 - 📞 **[Sales Copilot](https://github.com/laasya2005/salescopilot)** - Converts sales calls into lead scores, risk signals, deal insights, and instant follow-ups.
 - 💸 **[SYNK AI](https://github.com/laasya2005/SYNK-AI)** - AI-driven budgeting and financial control platform for smarter decision-making.
 - 👉 **[Dora Agent](https://github.com/laasya2005/Dora-Agent)** - RAG-based AI support agent for secure, context-aware answers over business data.
+
 - 🧠 **[MedMentor](https://github.com/laasya2005/MedMentor)** - NLP project that extracts structured insights from medical transcripts (built in 48 hours).
 - 🤖 **[RoboMapperX](https://github.com/laasya2005/RoboMapperX)** - Autonomous robot navigation and mapping using YOLO, PyBullet, and probabilistic SLAM.
+- 📈 **[Fractal Analysis](https://github.com/laasya2005/Fractal-Analysis)** - Applies fractal techniques to analyze financial time series and explore stock patterns.
 - 🍽️ **[Cuisine Detection](https://github.com/laasya2005/Cuisine-Detection-Using-Convolutional-Neural-Networks)** - Deep learning model that identifies cuisines from food images using CNNs.
-- 🧩 **[Jetbrain](https://github.com/laasya2005/Jetbrain)** - Real-time face detection system built using computer vision techniques for accurate recognition and tracking.
+
+- 🧩 **[Jetbrain](https://github.com/laasya2005/Jetbrain)** - Real-time face detection system built using computer vision techniques for recognition and tracking.
+- 👁️ **[Face & Eye Detection](https://github.com/laasya2005/Face-And-Eye-Detection)** - Detects faces and eyes using classical computer vision techniques.
+- 🚗 **[Parking Spots Detector](https://github.com/laasya2005/Parking_Spots_Detector)** - Detects available parking spaces using computer vision and predicts stocks.
+
+- 📊 **[Bank Customer Churn](https://github.com/laasya2005/Bank-Customer-Churn-Prediction)** - Predicts customer churn using machine learning models and behavioral data.
+- 🏦 **[Loan Campaign Analysis](https://github.com/laasya2005/Campaign-for-selling-personal-loans)** - Analyzes marketing campaigns to predict customer response for personal loans.
+- ⚠️ **[Qualitative Bankruptcy](https://github.com/laasya2005/Qualitative-Bankruptcy)** - Classification model to predict bankruptcy risk based on qualitative features.
+- 🧬 **[Breast Cancer (KNN)](https://github.com/laasya2005/KNN-Breast-Cancer-Modelling)** - KNN-based model for breast cancer classification.
+
+- 🧮 **[Data Structures](https://github.com/laasya2005/Data-Structures)** - Implementation of core data structures and algorithms.
+- 🎯 **[Sorting Visualizer](https://github.com/laasya2005/Sorting-Visualizer)** - Interactive visual tool to understand sorting algorithms.
+
 - 🌐 **[Portfolio](https://github.com/laasya2005/my-portfolio)** - Personal website showcasing projects, skills, and experience.
 - 🎮 **[Emoji Charades](https://github.com/laasya2005/Emoji-Charades)** - Emoji-based movie guessing game that turns clues into interactive fun.
 
