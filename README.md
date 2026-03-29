@@ -1,96 +1,66 @@
-<h2 align="center">
-  Hi, I'm Laasya 👋
-</h2>
+# Hi, I'm Laasya 👋
 
-<p align="center">
-  This GitHub is where I build things, experiment, and slowly make sense of problems.
-</p>
+📍 **New Jersey** | 🤖 **AI builder** | 🚀 **Software Engineer**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/laasyalata/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flatsquare&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-<img
-  align="right"
-  src="https://cdn.dribbble.com/users/3029797/screenshots/13909768/media/2bfb0f1fa96cbcdd0293721013253355.gif"
-  width="320"
-  height="230"
-/>
 
----
+> I’m a software engineer who enjoys building things end-to-end, especially AI-driven solutions that make everyday workflows easier.
 
-### My Story 📖
+## Current Projects
+- 🤖 **[Aura](https://aura.gdn)** - AI companion that texts you via iMessage to help you stay consistent with your goals.
+- 📞 **[Sales Copilot](https://github.com/laasya2005/salescopilot)** - Converts sales calls into lead scores, risk signals, deal insights, and instant follow-ups.
+- 💸 **[SYNK AI](https://github.com/laasya2005/SYNK-AI)** - AI-driven budgeting and financial control platform for smarter decision-making.
+- 👉 **[Dora Agent](https://github.com/laasya2005/Dora-Agent)** - RAG-based AI support agent for secure, context-aware answers over business data.
+- 🧠 **[MedMentor](https://github.com/laasya2005/MedMentor)** - NLP project that extracts structured insights from medical transcripts (built in 48 hours).
+- 🤖 **[RoboMapperX](https://github.com/laasya2005/RoboMapperX)** - Autonomous robot navigation and mapping using YOLO, PyBullet, and probabilistic SLAM.
+- 🍽️ **[Cuisine Detection](https://github.com/laasya2005/Cuisine-Detection-Using-Convolutional-Neural-Networks)** - Deep learning model that identifies cuisines from food images using CNNs.
+- 🧩 **[Jetbrain](https://github.com/laasya2005/Jetbrain)** - Real-time face detection system built using computer vision techniques for accurate recognition and tracking.
+- 🌐 **[Portfolio](https://github.com/laasya2005/my-portfolio)** - Personal website showcasing projects, skills, and experience.
+- 🎮 **[Emoji Charades](https://github.com/laasya2005/Emoji-Charades)** - Emoji-based movie guessing game that turns clues into interactive fun.
 
-Most of the projects I work on involve a mix of understanding what already exists and building something new on top of it. I spend time reading through existing code, figuring out how things fit together, and then adding or improving features in a way that doesn’t break what’s already there.
+## GitHub Activity
 
-I enjoy full-stack work because I like seeing the whole picture - how a screen someone clicks connects to the logic behind it and how data moves through the system. I often split large features into smaller pieces so the code is easier to follow, change, and debug later.
+![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
 
-I also don’t like repeating the same manual steps again and again. If something feels fragile or time-consuming, I try to automate it so it’s more reliable and easier to maintain.
+## What I'm Doing
 
-Recently, I’ve been exploring data and AI-related ideas in a careful way. I test things, question whether they actually help, and keep them only if they make the system better. I care more about usefulness than fancy demos.
+- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
+- **Writing about AI workflows** - Sharing insights and learnings on [LinkedIn](https://www.linkedin.com/in/laasyalata/)
+- **Rapid prototyping** - Full apps in days, not months
+  
+## Latest AI Tutorials
 
-This GitHub reflects that balance. Some projects focus on building new features, others on improving existing ones, and some are experiments. Together, they show how I think through problems and grow over time.
+<!-- BLOG-POST-LIST:START -->
+- [AI Decoded](https://www.linkedin.com/posts/laasyalata_you-use-ai-every-single-day-but-you-have-activity-7442515897392648192-VLTs?utm_source=share&utm_medium=member_desktop&rcm=ACoAADA1ZrsBbYD_Uenls0s-gljlzDmNZYfyuDM)
+<!-- BLOG-POST-LIST:END -->
 
----
+## Connect
 
-<img
-  align="left"
-  src="https://cdn.dribbble.com/users/418188/screenshots/15824042/media/2aab6c1c0b9e4d6f2a9a62a8dc29c8fd.gif"
-  width="260"
-  height="190"
-/>
-
-### What I Work With 🛠️
-
-These are the tools I’ve actually used while building and improving projects:
-
-- **Languages:** Python, JavaScript, TypeScript, Java, C++  
-- **Frontend:** React, HTML, CSS, Bootstrap  
-- **Backend:** Flask, Django, Node.js, NestJS, REST APIs  
-- **Databases:** PostgreSQL, MongoDB, SQL  
-- **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV  
-- **Cloud & Tools:** AWS, Docker, Kubernetes, CI/CD  
-- **Testing & Workflow:** PyTest, Selenium, Git, Agile  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laasyalata/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/laasya2005)
 
 ---
+### Philosophy
 
-<img
-  align="right"
-  src="https://cdn.dribbble.com/users/1980226/screenshots/3989197/media/6c6e3e4b55a6f8d8c42b3c1a3c4a58d1.gif"
-  width="260"
-  height="190"
-/>
+> "Done is better than stuck" - I like building things that solve real problems, even if they’re not perfect at first. Most of what I learn comes from actually shipping.
 
-### How I Like to Work 🌱
+<details>
+<summary>Random Facts</summary>
 
-- I try to keep code easy to read and reason about  
-- I balance improving existing code with building new features  
-- I automate tasks that feel repetitive or error-prone  
-- I think about whether someone else can understand the code later  
+- I treat AI tools more like collaborators than just tools
+- Usually have multiple things running at once while experimenting
+- I like understanding how things work, not just using them
+- Yoga (when I actually take a break)
 
----
-
-<img
-  align="left"
-  src="https://cdn.dribbble.com/users/1787323/screenshots/16047520/media/55e0d7a7b6e1a8e4d7d58c9c0e8e2f0a.gif"
-  width="260"
-  height="190"
-/>
-
-### Why This GitHub Exists
-
-I use this space to build, improve, and experiment.  
-Not everything here is polished - and that’s intentional.
-
----
-
-### GitHub Activity
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=laasya2005&show_icons=true&locale=en"
-    alt="GitHub stats"
-  />
-</p>
+</details>
