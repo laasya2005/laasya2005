@@ -18,6 +18,7 @@
 > I’m a software engineer who enjoys building things end-to-end, especially AI-driven solutions that make everyday workflows easier.
 
 ## Current Projects
+- 🗣️ **[Fonix](https://fonix-tau.vercel.app)** - Train your American accent with AI-powered pronunciation drills, phoneme-level scoring, and real-time feedback.
 - 🖼️ **[PixelMe](https://www.pixelme.bio)** - Turn your story into a pixel-style portfolio using AI and a guided character-driven experience.
 - 🤖 **[Aura](https://aura.gdn)** - AI companion that texts you via iMessage to help you stay consistent with your goals.
 - 📞 **[Sales Copilot](https://github.com/laasya2005/salescopilot)** - Converts sales calls into lead scores, risk signals, deal insights, and instant follow-ups.
